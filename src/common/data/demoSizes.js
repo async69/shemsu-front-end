@@ -1,0 +1,1 @@
+export const demoSizes = ["Small", "Medium", "Large"]

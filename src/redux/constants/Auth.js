@@ -1,0 +1,13 @@
+module.exports = {
+    CONST_LOGIN: {
+        REQUEST: "LOGIN REQUEST",
+        SUCCESS: "LOGIN SUCCESS",
+        FAILURE: "LOGIN FAILURE"
+    },
+
+    CONST_REGISTER: {
+        REQUEST: "REGISTER REQUEST",
+        SUCCESS: "REGISTER SUCCESS",
+        FAILURE: "REGISTER FAILURE"
+    }
+}

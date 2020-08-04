@@ -1,0 +1,22 @@
+export default {
+    primary: '#FD7F80',
+    secondary: '#0097A7',
+    teritiary: '#EEDF3E',
+    fourth: '#ECEFF0',
+    success: '',
+    warning: '',
+    info: '',
+    error: '',
+    darkPink: '#0097A7',
+    blue: '#2196f3',
+    indigo: '#536dfe',
+    purple: '#9c27b0',
+    pink: '#ff4081',
+    red: '#f44336',
+    orange: '#ff9800',
+    yellow: '#ffeb3b',
+    green: '#4caf50',
+    teal: '#009688',
+    cyan: '#00bcd4',
+    white: '#fff'
+}
